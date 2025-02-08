@@ -1,3 +1,2 @@
 # Quiz
-This is a simple quiz game about asking the user 3 different questions about Rose.
-If the user gets the question right, he/she moves on to the next question. If the user get's the question wrong, the user will only have 2 tries to get the correct answer or else the program will restart.
+This program is a simple text-based quiz game written in C++. The game consists of a series of questions about a character named Rose. The user is given multiple-choice questions and must answer correctly to proceed to the next question. The user has three attempts to answer each question correctly. If the user fails to answer correctly within three attempts, the game ends.
